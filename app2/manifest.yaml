@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app2
-        image: 12192jaipal/app2:v1
+        image: 12192jaipal/ingress2:v1
         imagePullPolicy: Always
         resources:
           requests:
